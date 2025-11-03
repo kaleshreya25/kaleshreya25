@@ -1,20 +1,25 @@
-👋 Hi there! I'm Shreya Kale, an enthusiastic AWS Cloud Engineer. With a deep expertise in Amazon Web Services, I specialize in designing, deploying, and managing scalable and secure cloud infrastructures.
+👋 Hi there! I'm Shreya Kale — a passionate **Cloud & DevOps Engineer** with 3 years of hands-on experience in designing, deploying, and managing scalable cloud infrastructures across **AWS**, **GCP**, and **Azure**.
 
-🔧 Skills & Expertise:
+💡 **What I Do:**
+I specialize in **cloud infrastructure automation**, **Kubernetes deployments**, and **CI/CD pipeline optimization**, ensuring secure, reliable, and production-ready environments.
 
-AWS Services: EC2, S3, RDS, Lambda, CloudFormation, ECS, EKS
-Containerization: Docker, Kubernetes
-CI/CD: Jenkins, GitHub Actions, CodePipeline
-Infrastructure as Code: Terraform, CloudFormation
-Monitoring & Logging: CloudWatch, Zabbix, ELK Stack
-Scripting: Python, Bash
-🚀 Projects:
+🔧 **Core Skills:**
+☁️ Cloud: AWS (EC2, S3, IAM, CloudWatch), GCP (Compute Engine, Cloud SQL, Pub/Sub), Azure (VMs, Storage)
+⚙️ IaC: Terraform, CloudFormation, Helm
+🐳 Containers & Orchestration: Docker, Kubernetes (GKE, EKS, AKS)
+🚀 CI/CD: Jenkins, GitHub Actions, GitLab CI/CD, ArgoCD
+📊 Monitoring: Prometheus, Grafana, Zabbix, New Relic, ELK Stack
+💻 Scripting: Bash, Python
 
-Architected and deployed high-availability web applications using AWS Elastic Load Balancing and auto-scaling.
-Automated cloud infrastructure provisioning and management with Terraform and AWS CloudFormation.
-Developed CI/CD pipelines for seamless code deployment and improved software delivery processes.
-🌱 Learning & Growth:
-Currently exploring advanced AWS services and best practices for cost optimization and security enhancement.
+🧩 **Highlighted Projects:**
 
-💬 Let's Connect:
-I'm always open to discussing cloud technologies, sharing knowledge, and collaborating on innovative projects. Feel free to reach out!
+* **AWS–GCP Infrastructure Migration:** Executed a full-scale migration with secure configurations and minimal downtime.
+* **Microservices Modernization on GKE:** Deployed and managed containerized applications using **Helm** and **Kubernetes**.
+* **CI/CD Automation:** Designed end-to-end pipelines with Jenkins and ArgoCD for efficient release cycles.
+
+🎯 **Currently Exploring:**
+Advanced cloud cost optimization, GitOps workflows, and Kubernetes scalability best practices.
+
+📫 **Let’s Connect:**
+I’m always open to discussing DevOps, cloud automation, or open-source collaboration!
+[LinkedIn](https://www.linkedin.com/in/shreyakale25/) | [Medium](https://medium.com/@shreya.kale_18243)
