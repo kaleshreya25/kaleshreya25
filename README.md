@@ -1,4 +1,7 @@
-👋 Hi there! I'm Shreya Kale — a passionate **Cloud & DevOps Engineer** with 3 years of hands-on experience in designing, deploying, and managing scalable cloud infrastructures across **AWS**, **GCP**, and **Azure**.
+Hi there, I'm Shreya Kale👋
+
+
+a passionate **Cloud & DevOps Engineer** with 3 years of hands-on experience in designing, deploying, and managing scalable cloud infrastructures across **AWS**, **GCP**, and **Azure**.
 
 💡 **What I Do:**
 I specialize in **cloud infrastructure automation**, **Kubernetes deployments**, and **CI/CD pipeline optimization**, ensuring secure, reliable, and production-ready environments.
